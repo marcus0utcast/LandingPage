@@ -46,7 +46,7 @@ h1,h2,h3,h4,h5,h6{font-size: inherit;font-weight: 400;}
 
 @font-face {
 	font-family: 'Gilroy Bold'; 
-	src: url(./fonts/Gilroy-Bold.ttf); 
+	src: url(./Gilroy-Bold.ttf); 
 }
 
 body {
